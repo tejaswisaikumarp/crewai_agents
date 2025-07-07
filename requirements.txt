@@ -1,0 +1,5 @@
+crewai==0.130.0
+crewai[tools]   #If you want to use 'Serper', 'Tavily' API
+langchain_openai
+langchain_community
+python-dotenv
